@@ -9,3 +9,4 @@ export const sub5thSem = ['Java Programming', 'Economic', 'Computer Graphics', '
 export const sub7thSem = ['Data Warehouse and Mining', 'Computer System Security', 'Artificial Intelligence', 'Mobile Computing', 'STQA'];
 
 export const cse4thSemSub = ['DMGT', 'Operating System', 'TFOCE', 'DSPD', 'System Programming']
+export const cse5thSemSub = ['DMGT', 'Operating System', 'TFOCE', 'DSPD', 'System Programming']
