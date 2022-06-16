@@ -1,4 +1,10 @@
 import React from 'react'
+import {
+ 
+  courseOutcome,
+  POs,
+  
+} from "../array";
 
 const Table = () => {
   return (
