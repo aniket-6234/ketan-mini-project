@@ -8,6 +8,7 @@ export const cse4thSemSub = ['Select','DMGT', 'Operating System', 'TFOCE', 'DSPD
 
 export const sub5thSem = ['Select','Java Programming', 'Economic', 'Computer Graphics', 'Software Engineering', 'System Programming', 'Design and Analysis of Algorithm'];
 
+
 export const cse6thSemSub = ['Select','Operating System', 'Internet Programming', 'Database Management System', 'Computer Networks', 'Functional English']
 
 export const sub7thSem = ['Select', 'Data Warehouse and Mining', 'Computer System Security', 'Artificial Intelligence', 'Mobile Computing', 'STQA'];
@@ -33,3 +34,6 @@ export const POS1 = ['Select','1', '0']
 export const POS2 = ['Select','1', '0']
 
 export const POS3 = ['Select','1', '0']
+export const cse4thSemSub = ['DMGT', 'Operating System', 'TFOCE', 'DSPD', 'System Programming']
+export const cse5thSemSub = ['DMGT', 'Operating System', 'TFOCE', 'DSPD', 'System Programming']
+
